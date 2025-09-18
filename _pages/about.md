@@ -12,3 +12,5 @@ I'm an Economics PhD Candidate at the Department of Economics of the University 
 I'm currently working as a Research Assistant for Professors [Ariaster Chimeli](https://ariasterchimeli.wordpress.com), [Klenio Barbosa](https://kleniobarbosa.wordpress.com) and [Rodrigo Moita](https://sites.google.com/site/rodmoita). However, i'm always looking forward to new opportunities for future assistantships.
 
 I'd be very happy to make new acquaintaces in Academia and Non-Academia! If you want to talk my inbox is always open.
+
+My doctoral advisor is Professor [Luis Alvarez](https://luisfantozzialvarez.github.io).
