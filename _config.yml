@@ -12,7 +12,7 @@ site_theme               : "air" # Currently available options are "default", "a
 title                    : "Lucas H. de Oliveira"
 title_separator          : "-"
 name                     : &name "Lucas Henrique de Oliveira"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "I'm a PhD Candidate at the Department of Economics of the University of São Paulo. My research interests are mainly related to Econometrics (Theoretical and Applied) and Industrial Organization (Urban Economics and Energy)."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://l-h-o.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,22 +25,22 @@ author:
   # Biographic information
   avatar           : "foto.png"
   name             : "Lucas Henrique de Oliveira"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him # example: "she/her"  
   bio              : "Econ PhD Candidate, interested in Econometrics and IO"
   location         : "São Paulo, SP, Brazil"
   employer         : "University of São Paulo"
   uri              : # URL
-  email            : "lhoveira@gmail.com" 
+  email            : "lhoecoveira@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -48,36 +48,36 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/L-H-O"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-#  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-#  facebook         : # Username
-#  flickr           : # Username
-#  foursquare       : # Username
-#  goodreads        : # Username
-#  google_plus      : # Username
-#  keybase          : # Username
-#  instagram        : # Username
- # lastfm           : # Username
+  artstation       : # Username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
   linkedin         : # Username
-# mastodon         : # URL
- #  medium           : # URL
- # pinterest        : # Username
- # soundcloud       : # Username
- # steam            : # Username
- # telegram         : # URL
- # tumblr           : # Username
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
   twitter          : # Username for X / Twitter
- # vine             : # Username
- # weibo            : # Username
- # wikipedia        : # Username
- # xing             : # Username
- # youtube          : # Username
- # zhihu            : # Username
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
