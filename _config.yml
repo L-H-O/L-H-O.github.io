@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "foto.png"
   name             : "Lucas Henrique de Oliveira"
-  pronouns         : "He/Him # example: "she/her"  
+  pronouns         : "He/Him" # example: "she/her"  
   bio              : "Econ PhD Candidate, interested in Econometrics and IO"
   location         : "São Paulo, SP, Brazil"
   employer         : "University of São Paulo"
