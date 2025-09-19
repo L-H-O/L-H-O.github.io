@@ -11,5 +11,5 @@ redirect_from:
 
 You can find my CVs here:
 
-- [English](cv/LHO_CV_EN.pdf)
-- [Portuguese](cv/LHO_CV.pdf)
+- [English](LHO_CV_EN.pdf)
+- [Portuguese](LHO_CV.pdf)
