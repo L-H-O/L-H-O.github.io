@@ -12,6 +12,6 @@ My secondary research interests lie in the field of Industrial Organization, esp
 
 I'm currently working as a Research Assistant for Professors [Ariaster Chimeli](https://ariasterchimeli.wordpress.com), [Klenio Barbosa](https://kleniobarbosa.wordpress.com) and [Rodrigo Moita](https://sites.google.com/site/rodmoita). However, i'm always looking forward to new opportunities for future assistantships.
 
-I'd be very happy to make new acquaintaces in Academia and Non-Academia! If you want to talk my inbox is always open.
+I'd be very happy to make new acquaintances in Academia and Non-Academia! If you want to talk my inbox is always open.
 
 My PhD advisor is Professor [Luis Alvarez](https://luisfantozzialvarez.github.io).
