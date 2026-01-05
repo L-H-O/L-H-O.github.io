@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm a second year PhD Candidate at the Department of Economics of the University of São Paulo. My primary research interests are mainly related to Econometrics, with an emphasis on inference and identification in nonparametric and semiparametric models and forecasting.
-My secondary research interests lie in the field of Industrial Organization, especially in the context of Urban Economics. 
+My secondary research interest lies in the field of Industrial Organization, especially in the context of Urban Economics. 
 
 I'm currently working as a Research Assistant for Professors [Ariaster Chimeli](https://ariasterchimeli.wordpress.com), [Klenio Barbosa](https://kleniobarbosa.wordpress.com) and [Rodrigo Moita](https://sites.google.com/site/rodmoita). However, i'm always looking forward to new opportunities for future assistantships.
 
