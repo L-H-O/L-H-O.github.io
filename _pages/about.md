@@ -16,7 +16,7 @@ My PhD advisor is Professor [Luis Alvarez](https://luisfantozzialvarez.github.io
 
 I'm always looking forward to help with research projects, some of my current assistanships can be seen below.
 
-## Current Work
+# Current Work
 
 I'm currently working as a Research Assistant for Professors [Ariaster Chimeli](https://ariasterchimeli.wordpress.com), [Klenio Barbosa](https://kleniobarbosa.wordpress.com) and [Rodrigo Moita](https://sites.google.com/site/rodmoita) in constructing a highly granular georreferenced dataset using [MapaBiomas](https://brasil.mapbiomas.org) Google Earth Engine's API for evaluating the impact of hydroelectrical power plants on surrounding communities.
 
