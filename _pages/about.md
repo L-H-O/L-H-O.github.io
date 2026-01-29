@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD Candidate at the Department of Economics of the University of São Paulo. My primary research interests are mainly related to Econometrics, with an emphasis on inference and identification in nonparametric and semiparametric models and forecasting.
+I'm a second year PhD Candidate at the Department of Economics of the University of São Paulo. My primary research interests are mainly related to Econometrics, with an emphasis on identification and forecasting.
 My secondary research interest lies in the field of Industrial Organization, especially in the context of Urban Economics. 
 
 I'd be very happy to make new acquaintances in Academia and Non-Academia! If you want to talk my inbox is always open.
